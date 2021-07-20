@@ -2,7 +2,7 @@
 
 MATLAB scripts used to generate the numerical data for the paper:
 
-Marco Leonetti, Lorenzo Pattelli, Simone De Panfilis, Diederik S. Wiersma, Giancarlo Ruocco. Spatial coherence of light inside three dimensional media. *Nature Communications* (2021).
+Marco Leonetti, Lorenzo Pattelli, Simone De Panfilis, Diederik S. Wiersma, Giancarlo Ruocco. Spatial coherence of light inside three dimensional media. *Nature Communications* **12**, 4199 (2021). doi: [10.1038/s41467-021-23978-0](https://doi.org/10.1038/s41467-021-23978-0)
 
 Simulations performed using [CELES v2.2](https://github.com/disordered-photonics/celes/releases/tag/v2.2)
 
